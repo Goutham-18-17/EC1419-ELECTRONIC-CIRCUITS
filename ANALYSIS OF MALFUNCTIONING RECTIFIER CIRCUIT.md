@@ -7,6 +7,11 @@
 ## ATTACH THE CORRECT CIRCUIT AND GRAPH:
 <img width="1600" height="736" alt="WhatsApp Image 2026-05-30 at 2 11 24 PM" src="https://github.com/user-attachments/assets/85d22243-04bd-44f8-9e58-4101f1ce0e62" />
 
+<img width="1152" height="1540" alt="image" src="https://github.com/user-attachments/assets/c121f046-456c-4c5a-a331-48b36cf5ac46" />
+<img width="1520" height="977" alt="image" src="https://github.com/user-attachments/assets/e1c08813-1c5f-47b1-a236-c01a774ed6c0" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bde4f104-b533-4ee8-b8f5-1a0cd90eb83f" />
+
+
 
 
 
